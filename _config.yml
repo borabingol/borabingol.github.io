@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Bora Bingöl"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bora Bingöl"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "borabingol/borabingol.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   #avatar           : "profile.png"
   name             : "Your Sidebar Name"
   #pronouns         : # example: "she/her"  
-  bio              : "Computer Engineering graduate with a 3.38 GPA, equipped with hands-on experience in automation testing, IT service management, and process improvement through multiple internships in dynamic team environments."
+  bio              : "Computer Engineering graduate."
   location         : "Istanbul, Turkey"
   #employer         : "Red Brick University"
   uri              : "https://borabingol.github.io/"
