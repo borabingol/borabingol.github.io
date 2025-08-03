@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #pronouns         : # example: "she/her"  
+  bio              : "Computer Engineering graduate with a 3.38 GPA, equipped with hands-on experience in automation testing, IT service management, and process improvement through multiple internships in dynamic team environments."
+  location         : "Istanbul, Turkey"
+  #employer         : "Red Brick University"
+  uri              : "https://borabingol.github.io/"
+  email            : "borabingol@outlook.com" 
 
   # Academic websites
   academia         : # URL
